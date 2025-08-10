@@ -1,0 +1,67 @@
+:root {
+  --bg: #ffffff;
+  --fg: #111111;
+  --card: #f7f7f9;
+  --link: #1f6feb;
+}
+:root[data-theme="dark"] {
+  --bg: #0f1216;
+  --fg: #e5e7eb;
+  --card: #151a21;
+  --link: #8ab4f8;
+}
+html, body {
+  background: var(--bg);
+  color: var(--fg);
+}
+
+/* Exemple d’adaptation Icarus (ajuste selon ton thème) */
+.header, .navbar, .card, .article {
+  background: var(--card);
+}
+a {
+  color: var(--link);
+}
+
+/* Bouton toggle */
+.theme-toggle {
+  margin-left: 12px;
+  padding: 6px 10px;
+  border: 1px solid transparent;
+  border-radius: 999px;
+  background: var(--card);
+  cursor: pointer;
+  line-height: 1;
+}
+
+/* ======= Correction mode nuit pour les blocs blancs ======= */
+:root[data-theme="dark"] [class*="count"],
+:root[data-theme="dark"] .archive-list-count,
+:root[data-theme="dark"] .category-list-count,
+:root[data-theme="dark"] .tag-list-count,
+:root[data-theme="dark"] .tag-cloud .count,
+:root[data-theme="dark"] .widget .count,
+:root[data-theme="dark"] .article-tag-list .tag-list-count,
+:root[data-theme="dark"] .label-count,
+:root[data-theme="dark"] .label .count,
+:root[data-theme="dark"] .tag a span,
+:root[data-theme="dark"] .tag-cloud a span,
+:root[data-theme="dark"] .category-list a span,
+:root[data-theme="dark"] .archive-list a span {
+  background-color: #1f1f1f !important;
+  color: #ffffff !important;
+  border: 1px solid #333 !important;
+  border-radius: 4px;
+  box-shadow: none !important;
+  opacity: 1 !important;
+}
+
+/* icône toggle dans la navbar */
+.navbar .nav-icon.theme-toggle-btn { padding: 0 0.5rem; }
+.navbar .nav-icon.theme-toggle-btn i { font-size: 1.1rem; line-height: 1; }
+
+/* couleur de l'icône selon le thème */
+:root:not([data-theme="dark"]) .theme-toggle-btn i { color: #4b5563; }     /* gris navbar clair */
+:root[data-theme="dark"] .theme-toggle-btn i { color: #e5e7eb; }          /* blanc en dark */
+.theme-toggle-btn:hover i { opacity: .85; }
+

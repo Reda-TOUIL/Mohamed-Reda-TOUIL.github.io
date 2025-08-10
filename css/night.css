@@ -1,0 +1,165 @@
+/* ===================== Night Mode (full dark) ===================== */
+:root[data-theme="dark"] {
+  --bg: #0b0b0b;           /* fond global */
+  --fg: #e5e5e5;           /* texte principal */
+  --card: #141414;         /* cartes / widgets / navbar / footer */
+  --link: #4ea3ff;         /* liens */
+  --link-hover: #82c4ff;   /* hover liens */
+}
+
+/* Fond global + texte */
+:root[data-theme="dark"] html,
+:root[data-theme="dark"] body {
+  background: var(--bg) !important;
+  color: var(--fg) !important;
+}
+
+/* Cartes, sidebar, widgets, navbar, footer */
+:root[data-theme="dark"] .card,
+:root[data-theme="dark"] .widget,
+:root[data-theme="dark"] .article,
+:root[data-theme="dark"] .profile,
+:root[data-theme="dark"] .navbar,
+:root[data-theme="dark"] .menu,
+:root[data-theme="dark"] .footer {
+  background-color: var(--card) !important;
+  color: var(--fg) !important;
+  border-color: #222 !important;
+}
+
+/* Liens */
+:root[data-theme="dark"] a { color: var(--link) !important; }
+:root[data-theme="dark"] a:hover { color: var(--link-hover) !important; }
+
+/* Typo générale */
+:root[data-theme="dark"] h1,
+:root[data-theme="dark"] h2,
+:root[data-theme="dark"] h3,
+:root[data-theme="dark"] h4,
+:root[data-theme="dark"] h5,
+:root[data-theme="dark"] h6,
+:root[data-theme="dark"] p,
+:root[data-theme="dark"] span,
+:root[data-theme="dark"] li,
+:root[data-theme="dark"] time {
+  color: var(--fg) !important;
+}
+
+/* Inputs */
+:root[data-theme="dark"] input,
+:root[data-theme="dark"] textarea {
+  background-color: #1a1a1a !important;
+  color: var(--fg) !important;
+  border: 1px solid #333 !important;
+}
+
+/* Séparateurs */
+:root[data-theme="dark"] hr { border-color: #333 !important; }
+
+/* ===================== Archives & Categories ===================== */
+/* Chaque ligne (gros bloc) devient sombre + texte blanc */
+:root[data-theme="dark"] .widget .menu-list a,
+:root[data-theme="dark"] .archive-list a,
+:root[data-theme="dark"] .category-list a {
+  background-color: #141414 !important;
+  color: #ffffff !important;
+  border-radius: 10px;
+}
+
+/* Tout le contenu à l'intérieur en blanc */
+:root[data-theme="dark"] .widget .menu-list a *,
+:root[data-theme="dark"] .archive-list a *,
+:root[data-theme="dark"] .category-list a * {
+  color: #ffffff !important;
+  opacity: 1 !important;
+}
+
+/* Compteur à droite (petit pill) */
+:root[data-theme="dark"] .archive-list a .archive-list-count,
+:root[data-theme="dark"] .category-list a .category-list-count {
+  background: #1f1f1f !important;
+  color: #ffffff !important;
+  border: 1px solid #333 !important;
+  border-radius: 6px;
+  box-shadow: none !important;
+  opacity: 1 !important;
+}
+
+/* Certaines versions Icarus/Bulma utilisent des .tag clairs pour le compteur */
+:root[data-theme="dark"] .archive-list .tag,
+:root[data-theme="dark"] .category-list .tag,
+:root[data-theme="dark"] .widget .menu-list a .tag,
+:root[data-theme="dark"] .archive-list a .tag,
+:root[data-theme="dark"] .category-list a .tag,
+:root[data-theme="dark"] .tag.is-light.archive-list-count,
+:root[data-theme="dark"] .tag.is-light.category-list-count,
+:root[data-theme="dark"] .archive-list-count.tag.is-rounded.is-light,
+:root[data-theme="dark"] .category-list-count.tag.is-rounded.is-light {
+  background: #1f1f1f !important;
+  color: #ffffff !important;
+  border: 1px solid #333 !important;
+  border-radius: 6px !important;
+  box-shadow: none !important;
+  opacity: 1 !important;
+}
+
+/* ===================== Tags & counts dans la zone TAGS ===================== */
+/* Cas généraux nommés “count” */
+:root[data-theme="dark"] [class*="count"] {
+  background: #1f1f1f !important;
+  color: #ffffff !important;
+  border: 1px solid #333 !important;
+  border-radius: 6px;
+  box-shadow: none !important;
+  opacity: 1 !important;
+}
+
+/* Compteur attenant au tag (span interne ou voisin) */
+:root[data-theme="dark"] .tag a > span:last-child,
+:root[data-theme="dark"] .tag > span:last-child,
+:root[data-theme="dark"] .tag-cloud a span,
+:root[data-theme="dark"] .tag-cloud .tag + .tag,
+:root[data-theme="dark"] .tag-cloud a + .tag,
+:root[data-theme="dark"] .tags .tag + .tag,
+:root[data-theme="dark"] .article-tag-list .tag-list-count,
+:root[data-theme="dark"] .article-tag-list .tag + .tag {
+  background: #1f1f1f !important;
+  color: #ffffff !important;
+  border: 1px solid #333 !important;
+  border-radius: 6px;
+  box-shadow: none !important;
+  opacity: 1 !important;
+}
+
+/* Si des pastilles blanches persistent (.tag.is-light / .is-white) */
+:root[data-theme="dark"] .tag.is-light,
+:root[data-theme="dark"] .tag.is-white {
+  background: #1f1f1f !important;   /* on force sombre aussi ici */
+  color: #ffffff !important;
+  border: 1px solid #333 !important;
+}
+:root[data-theme="dark"] .tag.is-light *,
+:root[data-theme="dark"] .tag.is-white * {
+  color: #ffffff !important;
+  opacity: 1 !important;
+  font-weight: 600;
+}
+
+/* ===================== */
+/*   Text Grey → White    */
+/* ===================== */
+:root[data-theme="dark"] * {
+  color: #ffffff !important;
+  opacity: 1 !important;
+}
+
+:root[data-theme="dark"] em,
+:root[data-theme="dark"] i {
+  font-weight: bold !important;
+}
+
+/* Garder les liens avec leur couleur spéciale */
+:root[data-theme="dark"] a {
+  color: var(--link) !important;
+}
+

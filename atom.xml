@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Mohamed Reda TOUIL</title>
+  
+  <subtitle>Electronics • Robotics • AI for Medical Imaging</subtitle>
+  <link href="https://mohamed-reda-touil.github.io/atom.xml" rel="self"/>
+  
+  <link href="https://mohamed-reda-touil.github.io/"/>
+  <updated>2025-08-10T10:30:44.593Z</updated>
+  <id>https://mohamed-reda-touil.github.io/</id>
+  
+  <author>
+    <name>John Doe</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>3D Liver Segmentation → Mixed-Reality Planning</title>
+    <link href="https://mohamed-reda-touil.github.io/2025/06/01/project-liver-mr/"/>
+    <id>https://mohamed-reda-touil.github.io/2025/06/01/project-liver-mr/</id>
+    <published>2025-05-31T23:00:00.000Z</published>
+    <updated>2025-08-10T10:30:44.593Z</updated>
+    
+    <content type="html"><![CDATA[<p>End-to-end pipeline: preprocessing (NIfTI&#x2F;DICOM), 3D U-Net &#x2F; ResU-Net (PyTorch), Dice&#x2F;SSIM monitoring, and real-time MR visualization for surgeons with correction workflow.</p><ul><li><strong>Datasets:</strong> LiTS2017, IRCAD, Task08 HepaticVessel  </li><li><strong>Tech:</strong> PyTorch, MONAI, CUDA, Unity (Meta Quest)</li></ul><p><strong>Code:</strong> <a href="https://github.com/Reda-TOUIL">https://github.com/Reda-TOUIL</a></p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;End-to-end pipeline: preprocessing (NIfTI&amp;#x2F;DICOM), 3D U-Net &amp;#x2F; ResU-Net (PyTorch), Dice&amp;#x2F;SSIM monitoring, and real-time MR vi</summary>
+      
+    
+    
+    
+    <category term="Projects" scheme="https://mohamed-reda-touil.github.io/categories/Projects/"/>
+    
+    
+    <category term="Medical AI" scheme="https://mohamed-reda-touil.github.io/tags/Medical-AI/"/>
+    
+    <category term="Mixed Reality" scheme="https://mohamed-reda-touil.github.io/tags/Mixed-Reality/"/>
+    
+    <category term="PyTorch" scheme="https://mohamed-reda-touil.github.io/tags/PyTorch/"/>
+    
+    <category term="MONAI" scheme="https://mohamed-reda-touil.github.io/tags/MONAI/"/>
+    
+    <category term="Unity" scheme="https://mohamed-reda-touil.github.io/tags/Unity/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>ArUco Marker Tracking on Jetson Nano</title>
+    <link href="https://mohamed-reda-touil.github.io/2025/05/01/project-aruco-jetson/"/>
+    <id>https://mohamed-reda-touil.github.io/2025/05/01/project-aruco-jetson/</id>
+    <published>2025-04-30T23:00:00.000Z</published>
+    <updated>2025-08-10T10:30:44.598Z</updated>
+    
+    <content type="html"><![CDATA[<p>ROS node for camera-based detection and following of ArUco markers with GPU acceleration. Includes PID control and speed adaptation based on target distance.</p><ul><li><strong>Tech:</strong> ROS, OpenCV, CUDA, Python  </li><li><strong>HW:</strong> Jetson Nano, CSI camera</li></ul><p><strong>Repository:</strong> <a href="https://github.com/Reda-TOUIL">https://github.com/Reda-TOUIL</a></p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;ROS node for camera-based detection and following of ArUco markers with GPU acceleration. Includes PID control and speed adaptation based</summary>
+      
+    
+    
+    
+    <category term="Projects" scheme="https://mohamed-reda-touil.github.io/categories/Projects/"/>
+    
+    
+    <category term="Robotics" scheme="https://mohamed-reda-touil.github.io/tags/Robotics/"/>
+    
+    <category term="CUDA" scheme="https://mohamed-reda-touil.github.io/tags/CUDA/"/>
+    
+    <category term="ROS" scheme="https://mohamed-reda-touil.github.io/tags/ROS/"/>
+    
+    <category term="OpenCV" scheme="https://mohamed-reda-touil.github.io/tags/OpenCV/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Mobile Robot Perception for Eurobot 2025</title>
+    <link href="https://mohamed-reda-touil.github.io/2025/04/01/project-eurobot/"/>
+    <id>https://mohamed-reda-touil.github.io/2025/04/01/project-eurobot/</id>
+    <published>2025-03-31T23:00:00.000Z</published>
+    <updated>2025-08-10T10:30:44.601Z</updated>
+    
+    <content type="html"><![CDATA[<p>Perception stack (object detection, mapping, decision signals) for a mobile robot competing at Eurobot France. Focus on robust vision &amp; calibration.</p><p><strong>Team artifacts:</strong> <a href="https://github.com/Reda-TOUIL">https://github.com/Reda-TOUIL</a></p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;Perception stack (object detection, mapping, decision signals) for a mobile robot competing at Eurobot France. Focus on robust vision &amp;am</summary>
+      
+    
+    
+    
+    <category term="Projects" scheme="https://mohamed-reda-touil.github.io/categories/Projects/"/>
+    
+    
+    <category term="Eurobot" scheme="https://mohamed-reda-touil.github.io/tags/Eurobot/"/>
+    
+    <category term="Vision" scheme="https://mohamed-reda-touil.github.io/tags/Vision/"/>
+    
+    <category term="Calibration" scheme="https://mohamed-reda-touil.github.io/tags/Calibration/"/>
+    
+  </entry>
+  
+</feed>
