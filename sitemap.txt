@@ -15,12 +15,12 @@ https://mohamed-reda-touil.github.io/tags/Robotics/
 https://mohamed-reda-touil.github.io/tags/CUDA/
 https://mohamed-reda-touil.github.io/tags/ROS/
 https://mohamed-reda-touil.github.io/tags/OpenCV/
-https://mohamed-reda-touil.github.io/tags/Eurobot/
-https://mohamed-reda-touil.github.io/tags/Vision/
-https://mohamed-reda-touil.github.io/tags/Calibration/
 https://mohamed-reda-touil.github.io/tags/Medical-AI/
 https://mohamed-reda-touil.github.io/tags/Mixed-Reality/
 https://mohamed-reda-touil.github.io/tags/PyTorch/
 https://mohamed-reda-touil.github.io/tags/MONAI/
 https://mohamed-reda-touil.github.io/tags/Unity/
+https://mohamed-reda-touil.github.io/tags/Eurobot/
+https://mohamed-reda-touil.github.io/tags/Vision/
+https://mohamed-reda-touil.github.io/tags/Calibration/
 https://mohamed-reda-touil.github.io/categories/Projects/

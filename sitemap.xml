@@ -147,27 +147,6 @@
   </url>
   
   <url>
-    <loc>https://mohamed-reda-touil.github.io/tags/Eurobot/</loc>
-    <lastmod>2025-08-10</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://mohamed-reda-touil.github.io/tags/Vision/</loc>
-    <lastmod>2025-08-10</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://mohamed-reda-touil.github.io/tags/Calibration/</loc>
-    <lastmod>2025-08-10</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://mohamed-reda-touil.github.io/tags/Medical-AI/</loc>
     <lastmod>2025-08-10</lastmod>
     <changefreq>weekly</changefreq>
@@ -197,6 +176,27 @@
   
   <url>
     <loc>https://mohamed-reda-touil.github.io/tags/Unity/</loc>
+    <lastmod>2025-08-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://mohamed-reda-touil.github.io/tags/Eurobot/</loc>
+    <lastmod>2025-08-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://mohamed-reda-touil.github.io/tags/Vision/</loc>
+    <lastmod>2025-08-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://mohamed-reda-touil.github.io/tags/Calibration/</loc>
     <lastmod>2025-08-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
