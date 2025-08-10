@@ -3,11 +3,11 @@
   <title>Mohamed Reda TOUIL</title>
   
   <subtitle>Electronics • Robotics • AI for Medical Imaging</subtitle>
-  <link href="https://mohamed-reda-touil.github.io/atom.xml" rel="self"/>
+  <link href="https://reda-touil.github.io/atom.xml" rel="self"/>
   
-  <link href="https://mohamed-reda-touil.github.io/"/>
+  <link href="https://reda-touil.github.io/"/>
   <updated>2025-08-10T10:30:44.593Z</updated>
-  <id>https://mohamed-reda-touil.github.io/</id>
+  <id>https://reda-touil.github.io/</id>
   
   <author>
     <name>John Doe</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>3D Liver Segmentation → Mixed-Reality Planning</title>
-    <link href="https://mohamed-reda-touil.github.io/2025/06/01/project-liver-mr/"/>
-    <id>https://mohamed-reda-touil.github.io/2025/06/01/project-liver-mr/</id>
+    <link href="https://reda-touil.github.io/2025/06/01/project-liver-mr/"/>
+    <id>https://reda-touil.github.io/2025/06/01/project-liver-mr/</id>
     <published>2025-05-31T23:00:00.000Z</published>
     <updated>2025-08-10T10:30:44.593Z</updated>
     
@@ -33,25 +33,25 @@
     
     
     
-    <category term="Projects" scheme="https://mohamed-reda-touil.github.io/categories/Projects/"/>
+    <category term="Projects" scheme="https://reda-touil.github.io/categories/Projects/"/>
     
     
-    <category term="Medical AI" scheme="https://mohamed-reda-touil.github.io/tags/Medical-AI/"/>
+    <category term="Medical AI" scheme="https://reda-touil.github.io/tags/Medical-AI/"/>
     
-    <category term="Mixed Reality" scheme="https://mohamed-reda-touil.github.io/tags/Mixed-Reality/"/>
+    <category term="Mixed Reality" scheme="https://reda-touil.github.io/tags/Mixed-Reality/"/>
     
-    <category term="PyTorch" scheme="https://mohamed-reda-touil.github.io/tags/PyTorch/"/>
+    <category term="PyTorch" scheme="https://reda-touil.github.io/tags/PyTorch/"/>
     
-    <category term="MONAI" scheme="https://mohamed-reda-touil.github.io/tags/MONAI/"/>
+    <category term="MONAI" scheme="https://reda-touil.github.io/tags/MONAI/"/>
     
-    <category term="Unity" scheme="https://mohamed-reda-touil.github.io/tags/Unity/"/>
+    <category term="Unity" scheme="https://reda-touil.github.io/tags/Unity/"/>
     
   </entry>
   
   <entry>
     <title>ArUco Marker Tracking on Jetson Nano</title>
-    <link href="https://mohamed-reda-touil.github.io/2025/05/01/project-aruco-jetson/"/>
-    <id>https://mohamed-reda-touil.github.io/2025/05/01/project-aruco-jetson/</id>
+    <link href="https://reda-touil.github.io/2025/05/01/project-aruco-jetson/"/>
+    <id>https://reda-touil.github.io/2025/05/01/project-aruco-jetson/</id>
     <published>2025-04-30T23:00:00.000Z</published>
     <updated>2025-08-10T10:30:44.598Z</updated>
     
@@ -65,23 +65,23 @@
     
     
     
-    <category term="Projects" scheme="https://mohamed-reda-touil.github.io/categories/Projects/"/>
+    <category term="Projects" scheme="https://reda-touil.github.io/categories/Projects/"/>
     
     
-    <category term="Robotics" scheme="https://mohamed-reda-touil.github.io/tags/Robotics/"/>
+    <category term="Robotics" scheme="https://reda-touil.github.io/tags/Robotics/"/>
     
-    <category term="CUDA" scheme="https://mohamed-reda-touil.github.io/tags/CUDA/"/>
+    <category term="CUDA" scheme="https://reda-touil.github.io/tags/CUDA/"/>
     
-    <category term="ROS" scheme="https://mohamed-reda-touil.github.io/tags/ROS/"/>
+    <category term="ROS" scheme="https://reda-touil.github.io/tags/ROS/"/>
     
-    <category term="OpenCV" scheme="https://mohamed-reda-touil.github.io/tags/OpenCV/"/>
+    <category term="OpenCV" scheme="https://reda-touil.github.io/tags/OpenCV/"/>
     
   </entry>
   
   <entry>
     <title>Mobile Robot Perception for Eurobot 2025</title>
-    <link href="https://mohamed-reda-touil.github.io/2025/04/01/project-eurobot/"/>
-    <id>https://mohamed-reda-touil.github.io/2025/04/01/project-eurobot/</id>
+    <link href="https://reda-touil.github.io/2025/04/01/project-eurobot/"/>
+    <id>https://reda-touil.github.io/2025/04/01/project-eurobot/</id>
     <published>2025-03-31T23:00:00.000Z</published>
     <updated>2025-08-10T10:30:44.601Z</updated>
     
@@ -95,14 +95,14 @@
     
     
     
-    <category term="Projects" scheme="https://mohamed-reda-touil.github.io/categories/Projects/"/>
+    <category term="Projects" scheme="https://reda-touil.github.io/categories/Projects/"/>
     
     
-    <category term="Eurobot" scheme="https://mohamed-reda-touil.github.io/tags/Eurobot/"/>
+    <category term="Eurobot" scheme="https://reda-touil.github.io/tags/Eurobot/"/>
     
-    <category term="Vision" scheme="https://mohamed-reda-touil.github.io/tags/Vision/"/>
+    <category term="Vision" scheme="https://reda-touil.github.io/tags/Vision/"/>
     
-    <category term="Calibration" scheme="https://mohamed-reda-touil.github.io/tags/Calibration/"/>
+    <category term="Calibration" scheme="https://reda-touil.github.io/tags/Calibration/"/>
     
   </entry>
   

@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://mohamed-reda-touil.github.io/index.html</loc>
+    <loc>https://reda-touil.github.io/index.html</loc>
     
     <lastmod>2025-08-10</lastmod>
     
@@ -11,7 +11,7 @@
   </url>
   
   <url>
-    <loc>https://mohamed-reda-touil.github.io/tags/index.html</loc>
+    <loc>https://reda-touil.github.io/tags/index.html</loc>
     
     <lastmod>2025-08-10</lastmod>
     
@@ -20,7 +20,7 @@
   </url>
   
   <url>
-    <loc>https://mohamed-reda-touil.github.io/categories/index.html</loc>
+    <loc>https://reda-touil.github.io/categories/index.html</loc>
     
     <lastmod>2025-08-10</lastmod>
     
@@ -29,7 +29,7 @@
   </url>
   
   <url>
-    <loc>https://mohamed-reda-touil.github.io/archives/index.html</loc>
+    <loc>https://reda-touil.github.io/archives/index.html</loc>
     
     <lastmod>2025-08-10</lastmod>
     
@@ -38,7 +38,7 @@
   </url>
   
   <url>
-    <loc>https://mohamed-reda-touil.github.io/about/index.html</loc>
+    <loc>https://reda-touil.github.io/about/index.html</loc>
     
     <lastmod>2025-08-10</lastmod>
     
@@ -47,7 +47,7 @@
   </url>
   
   <url>
-    <loc>https://mohamed-reda-touil.github.io/pfe/index.html</loc>
+    <loc>https://reda-touil.github.io/pfe/index.html</loc>
     
     <lastmod>2025-08-10</lastmod>
     
@@ -56,7 +56,7 @@
   </url>
   
   <url>
-    <loc>https://mohamed-reda-touil.github.io/publications/index.html</loc>
+    <loc>https://reda-touil.github.io/publications/index.html</loc>
     
     <lastmod>2025-08-10</lastmod>
     
@@ -65,7 +65,7 @@
   </url>
   
   <url>
-    <loc>https://mohamed-reda-touil.github.io/curriculum/index.html</loc>
+    <loc>https://reda-touil.github.io/curriculum/index.html</loc>
     
     <lastmod>2025-08-10</lastmod>
     
@@ -74,7 +74,7 @@
   </url>
   
   <url>
-    <loc>https://mohamed-reda-touil.github.io/2025/04/01/project-eurobot/</loc>
+    <loc>https://reda-touil.github.io/2025/04/01/project-eurobot/</loc>
     
     <lastmod>2025-08-10</lastmod>
     
@@ -83,7 +83,7 @@
   </url>
   
   <url>
-    <loc>https://mohamed-reda-touil.github.io/2025/05/01/project-aruco-jetson/</loc>
+    <loc>https://reda-touil.github.io/2025/05/01/project-aruco-jetson/</loc>
     
     <lastmod>2025-08-10</lastmod>
     
@@ -92,7 +92,7 @@
   </url>
   
   <url>
-    <loc>https://mohamed-reda-touil.github.io/2025/06/01/project-liver-mr/</loc>
+    <loc>https://reda-touil.github.io/2025/06/01/project-liver-mr/</loc>
     
     <lastmod>2025-08-10</lastmod>
     
@@ -101,7 +101,7 @@
   </url>
   
   <url>
-    <loc>https://mohamed-reda-touil.github.io/cv/index.html</loc>
+    <loc>https://reda-touil.github.io/cv/index.html</loc>
     
     <lastmod>2025-08-10</lastmod>
     
@@ -111,7 +111,7 @@
   
 
   <url>
-    <loc>https://mohamed-reda-touil.github.io/</loc>
+    <loc>https://reda-touil.github.io/</loc>
     <lastmod>2025-08-10</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
@@ -119,84 +119,84 @@
 
   
   <url>
-    <loc>https://mohamed-reda-touil.github.io/tags/Robotics/</loc>
+    <loc>https://reda-touil.github.io/tags/Robotics/</loc>
     <lastmod>2025-08-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://mohamed-reda-touil.github.io/tags/CUDA/</loc>
+    <loc>https://reda-touil.github.io/tags/CUDA/</loc>
     <lastmod>2025-08-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://mohamed-reda-touil.github.io/tags/ROS/</loc>
+    <loc>https://reda-touil.github.io/tags/ROS/</loc>
     <lastmod>2025-08-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://mohamed-reda-touil.github.io/tags/OpenCV/</loc>
+    <loc>https://reda-touil.github.io/tags/OpenCV/</loc>
     <lastmod>2025-08-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://mohamed-reda-touil.github.io/tags/Medical-AI/</loc>
+    <loc>https://reda-touil.github.io/tags/Medical-AI/</loc>
     <lastmod>2025-08-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://mohamed-reda-touil.github.io/tags/Mixed-Reality/</loc>
+    <loc>https://reda-touil.github.io/tags/Mixed-Reality/</loc>
     <lastmod>2025-08-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://mohamed-reda-touil.github.io/tags/PyTorch/</loc>
+    <loc>https://reda-touil.github.io/tags/PyTorch/</loc>
     <lastmod>2025-08-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://mohamed-reda-touil.github.io/tags/MONAI/</loc>
+    <loc>https://reda-touil.github.io/tags/MONAI/</loc>
     <lastmod>2025-08-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://mohamed-reda-touil.github.io/tags/Unity/</loc>
+    <loc>https://reda-touil.github.io/tags/Unity/</loc>
     <lastmod>2025-08-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://mohamed-reda-touil.github.io/tags/Eurobot/</loc>
+    <loc>https://reda-touil.github.io/tags/Eurobot/</loc>
     <lastmod>2025-08-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://mohamed-reda-touil.github.io/tags/Vision/</loc>
+    <loc>https://reda-touil.github.io/tags/Vision/</loc>
     <lastmod>2025-08-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://mohamed-reda-touil.github.io/tags/Calibration/</loc>
+    <loc>https://reda-touil.github.io/tags/Calibration/</loc>
     <lastmod>2025-08-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -205,7 +205,7 @@
 
   
   <url>
-    <loc>https://mohamed-reda-touil.github.io/categories/Projects/</loc>
+    <loc>https://reda-touil.github.io/categories/Projects/</loc>
     <lastmod>2025-08-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
